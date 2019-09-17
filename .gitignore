@@ -1,0 +1,7 @@
+target/
+abc.txt
+*.log
+**/bin
+**/release
+**/debug
+
